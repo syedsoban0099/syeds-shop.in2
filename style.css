@@ -1,0 +1,39 @@
+p{
+    
+    color: green;
+}
+h2{
+    text-align:center;
+    color: green;
+    font-style:italic;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(19, 16, 16);
+    color: white;
+    text-align: center;
+  }
+  .card-columns{
+      height: 90%;
+      padding-top: 70px;
+      padding-bottom: 70px;
+      display: inline-block;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      flex-wrap: wrap;
+}
+/* .abc{
+    display: inline-block;
+    display: flex;
+} */
+  .contact{
+    background-color: rgb(67, 69, 71), 83), 83);
+      padding-top: 400px;
+      display: flex;
+      justify-content: space-around;
+      flex-direction: row;
+  }  
